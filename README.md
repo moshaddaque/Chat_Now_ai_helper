@@ -1,10 +1,10 @@
 # myhelper
 
-A new Flutter project.
+This project is about chat with ai to solve daily problems. 
 
-## Getting Started
+## Final for this time
 
-This project is a starting point for a Flutter application.
+In this project, i am using flutter_gemini package to handle api calling, using dash_chat_2 for messing system very easy. I am also add Image_picker fo pic image and to store the session of messing, i use shared_preferences. and i change the app icon using flutter_launcher_icons package.
 
 A few resources to get you started if this is your first Flutter project:
 
