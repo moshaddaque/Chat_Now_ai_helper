@@ -3,8 +3,9 @@
 This project is about chat with ai to solve daily problems. 
 
 ## Screenshots
-<img src="https://i.ibb.co.com/d7R2yQm/6298801979375337451.jpg" alt="6298801979375337451" border="0"> <img src="https://i.ibb.co.com/VjKZNL3/6298801979375337449.jpg" alt="6298801979375337449" border="0"> <img src="https://i.ibb.co.com/h92FFLV/6298801979375337450.jpg" alt="6298801979375337450" border="0">
-
+<img src="https://i.ibb.co.com/Bw9ZRgn/6298801979375337451.jpg" alt="6298801979375337451" border="0">
+<img src="https://i.ibb.co.com/f1c5SXQ/6298801979375337449.jpg" alt="6298801979375337449" border="0">
+<img src="https://i.ibb.co.com/kBq225X/6298801979375337450.jpg" alt="6298801979375337450" border="0">
 
 ## Final for this time
 
