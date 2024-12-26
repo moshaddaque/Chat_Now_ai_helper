@@ -2,6 +2,10 @@
 
 This project is about chat with ai to solve daily problems. 
 
+## Screenshots
+<img src="https://i.ibb.co.com/d7R2yQm/6298801979375337451.jpg" alt="6298801979375337451" border="0"> <img src="https://i.ibb.co.com/VjKZNL3/6298801979375337449.jpg" alt="6298801979375337449" border="0"> <img src="https://i.ibb.co.com/h92FFLV/6298801979375337450.jpg" alt="6298801979375337450" border="0">
+
+
 ## Final for this time
 
 In this project, i am using flutter_gemini package to handle api calling, using dash_chat_2 for messing system very easy. I am also add Image_picker fo pic image and to store the session of messing, i use shared_preferences. and i change the app icon using flutter_launcher_icons package.
